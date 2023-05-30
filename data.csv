@@ -1,8 +1,0 @@
-name,disease_type,control ,stimulation,nb_participants,stim_area,measurement,mean_stim_performance,std_stim_performance,mean_years_education,std_years_education,mean_age_of_participants,std_age_participants
-Cotelli 2012,PNFA,yes,left,20,DLPFC,action-naming,"48,88","6,3","8,1","4,1","69,1","9,3"
-"Cotelli 2012, group 2",SD,,left,8,DLPFC,action-naming,"39,6","20,2",,,"68,2","10,1"
-"Cotelli, 2006",AD,yes,placebo,15,DLPFC,action-naming correct %,"30,2","3,5",6,2,"76,6",6
-"Cotelli, 2008",AD,yes,placebo,12,dlPFC,action-naming correct %,"35,3","19,9","6,8","3,1",75,"6,2"
-"Margolis, 2019",FTD (mild to moderate),yes,placebo,6,DLPFC,action-naming correct %,44,,15,2,67,7
-"Antczak, 2018",FTD,no,before,11,DLPFC (bilateral),VFT Formal fluency,"7,5","5,3","15,3","3,1","61,7","10,1"
-"Cotelli, 2011",AD,yes,"bilateral, 20Hz ",5,Brodmann 8/9,Oral action naming,"40,3","10,5","6,4","1,3","71,2","6,1"

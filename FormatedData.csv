@@ -1,0 +1,26 @@
+Article,name,excluded,reviewer,disease_type,group,stimulation,nb_participants_real,nb_participants_placebo,mean_age_of_participants_real,mean_age_of_participants_placebo,std_age_participants_real,std_age_participants_placebo,p_value_real,p_value_placebo,std_p_value_real,std_p_value_placebo,stim_area,measurement,mean_stim_performance_real,mean_stim_performance_placebo,std_stim_performance_real,std_stim_performance_placebo,mean_years_education_real,mean_years_education_placebo,std_years_education_real,std_years_education_placebo
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1468-1331.2012.03699.x,Cotelli 2012,,Jeanne,PNFA,1,left,10,10,69.1,69.1,9.3,9.3,0.036,,,,DLPFC,action-naming,48.88,38.15,6.3,6.9,8.1,,4.1,
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1468-1331.2012.03699.x,Cotelli 2012,,Jeanne,PNFA,1,right,10,10,69.1,69.1,9.3,9.3,0.027,,,,DLPFC,action-naming,49.57,38.15,6.8,6.9,,,,
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1468-1331.2012.03699.x,Cotelli 2012,,Jeanne,PNFA,2,left,4,4,68.2,68.2,10.1,10.1,,,,,DLPFC,action-naming,39.6,54.3,20.2,12.6,,,,
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1468-1331.2012.03699.x,Cotelli 2012,,Jeanne,PNFA,2,right,4,4,68.2,68.2,10.1,10.1,,,,,DLPFC,action-naming,60.72,54.3,27.6,12.6,,,,
+https://pubmed.ncbi.nlm.nih.gov/17101829/,"Cotelli, 2006",,Arthur/Léo,AD,1,left,11,11,76.6,76.6,6.0,6.0,,,,,DLPFC,action-naming correct %,45.8,30.2,5.5,3.5,,,,
+https://pubmed.ncbi.nlm.nih.gov/17101829/,"Cotelli, 2006",,Arthur/Léo,AD,,right,11,11,76.6,76.6,6.0,6.0,,,,,DLPFC,action-naming,47.9,30.2,4.8,3.5,,,,
+https://pubmed.ncbi.nlm.nih.gov/17101829/,"Cotelli, 2006",,Arthur/Léo,AD,1,left,11,11,76.6,76.6,6.0,6.0,,,,,DLPFC,object-naming,64,62.7,6,6.1,,,,
+https://pubmed.ncbi.nlm.nih.gov/17101829/,"Cotelli, 2006",,Arthur/Léo,AD,,right,11,11,76.6,76.6,6.0,6.0,,,,,DLPFC,object-naming,72,62.7,3.4,6.1,,,,
+https://pubmed.ncbi.nlm.nih.gov/19049544/,"Cotelli, 2008",,Léo,AD,2 (mild AD),"left, 20 Hz",12,12.0,75.0,75,6.2,6.2,,,,,dlPFC,action-naming,56,35.3,10.1,19.9,,,,
+https://pubmed.ncbi.nlm.nih.gov/19049544/,"Cotelli, 2008",,Léo,AD,3 (mild AD),"right, 20 Hz",12,12.0,75.0,75,6.2,6.2,,,,,dlPFC,action-naming,56,35.3,9,19.9,,,,
+https://pubmed.ncbi.nlm.nih.gov/19049544/,"Cotelli, 2008",,Léo,AD,5 (mild AD),"left, 20 Hz",12,12.0,75.0,75,6.2,6.2,,,,,dlPFC,object-naming,76.6,75.8,10.5,20.4,,,,
+https://pubmed.ncbi.nlm.nih.gov/19049544/,"Cotelli, 2008",,Léo,AD,6 (mild AD),"right, 20 Hz",12,12.0,75.0,75,6.2,6.2,,,,,dlPFC,object-naming,74.1,75.8,9.1,20.4,,,,
+https://pubmed.ncbi.nlm.nih.gov/19049544/,"Cotelli, 2008",,Léo,AD,3 (moderate & severe AD),"left, 20 Hz",12,12,76.6,76.6,5.8,5.8,,,,,dlPFC,action-naming,43.5,31.6,6.2,6.9,,,,
+https://pubmed.ncbi.nlm.nih.gov/19049544/,"Cotelli, 2008",,Léo,AD,4 (moderate & severe AD),"right, 20 Hz",12,12,76.6,76.6,5.8,5.8,,,,,dlPFC,action-naming,45.1,31.6,7.4,6.9,,,,
+https://pubmed.ncbi.nlm.nih.gov/19049544/,"Cotelli, 2008",,Léo,AD,6 (moderate & severe AD),"left, 20 Hz",12,12,76.6,76.6,5.8,5.8,,,,,dlPFC,object-naming,55.9,46.1,6,6.8,,,,
+https://pubmed.ncbi.nlm.nih.gov/19049544/,"Cotelli, 2008",,Léo,AD,7 (moderate & severe AD),"right, 20 Hz",12,12,76.6,76.6,5.8,5.8,,,,,dlPFC,object-naming,60.1,46.1,7.2,6.8,,,,
+https://www.sciencedirect.com/science/article/abs/pii/S1935861X19302268?via%3Dihub,"Margolis, 2020",,Arthur/Léo,FTD (mild to moderate),1,"left, 20 Hz",6,6,67.0,67.0,7.0,7.0,0.036,,,,DLPFC,action-naming,58,44,13.3,26.6,,,,
+https://www.sciencedirect.com/science/article/abs/pii/S1935861X19302268?via%3Dihub,"Margolis, 2020",,Arthur/Léo,FTD (mild to moderate),1,"right, 20 Hz",6,6,67.0,67.0,7.0,7.0,0.094,,,,DLPFC,action-naming,41,46,29.6,17.7,,,,
+https://www.tandfonline.com/doi/abs/10.2147/NDT.S153213,"Antczak, 2018",,Léo,FTD,1,"after, 10 Hz",11,11,61.7,61.7,10.1,10.1,0.091,,,,DLPFC (bilateral),VFT Formal fluency,9.3,7.5,6.1,5.3,15.3,15.3,3.1,3.1
+https://www.tandfonline.com/doi/abs/10.2147/NDT.S153213,"Antczak, 2018",,Léo,FTD,1,"after, 10 Hz",11,11,61.7,61.7,10.1,10.1,0.45,,,,DLPFC (bilateral),VFT Semantic fluency,12,11.5,6.1,7.1,15.3,15.3,3.1,3.1
+https://www.tandfonline.com/doi/abs/10.2147/NDT.S153213,"Antczak, 2018",,Léo,FTD,1,"after, 10 Hz",11,11,61.7,61.7,10.1,10.1,0.109,,,,DLPFC (bilateral),MoCA Language,1.9,1.5,1.3,1.1,15.3,15.3,3.1,3.1
+https://www.tandfonline.com/doi/abs/10.2147/NDT.S153213,"Antczak, 2018",,Léo,FTD,1,"after, 10 Hz",11,11,61.7,61.7,10.1,10.1,1,,,,DLPFC (bilateral),MoCA Naming,2.4,2.4,0.9,1,15.3,15.3,3.1,3.1
+https://www.sciencedirect.com/science/article/pii/S1935861X12001891,"Trebbastoni, 2013",,Nico,LPPA,1,20Hz,1,1,50.0,50.0,0,0,0.05,,,,Left DLPFC,Linguistic skills and written language,,,,,,,,
+https://jnnp.bmj.com/content/82/7/794,"Cotelli, 2011",,Nico,AD,1,"bilateral, 20Hz ",5,5,71.2,74.4,6.1,3.8,0.11,,,,Brodmann 8/9,Oral object naming,60,47.4,9.5,10.1,6.4,4.8,1.3,0.4
+https://jnnp.bmj.com/content/82/7/794,"Cotelli, 2011",,Nico,AD,1,"bilateral, 20Hz ",5,5,71.2,74.4,6.1,3.8,0.51,,,,Brodmann 8/9,Oral action naming,40.3,35.6,10.5,8.4,6.4,4.8,1.3,0.4
